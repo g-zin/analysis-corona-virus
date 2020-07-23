@@ -1,1 +1,1 @@
-# twitter-analysis-corona-virus
+# analysis-corona-virus
